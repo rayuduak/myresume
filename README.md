@@ -16,16 +16,16 @@ Technology Executive and AI Architect with 20+ years of experience designing ent
 ## Professional Experience  
 
 ### **Skan Inc** — Toronto, Canada  
-**Senior Director, Technology & Architecture**  
+**Senior Director, Data, AI & Architecture**  
 *Aug 2022 – Present*  
 - Architected **Skan Process GPT (Ask Skan)**, an enterprise RAG-based GenAI assistant using Azure OpenAI and Databricks, reducing client process discovery time by **60%** and enabling **30+ enterprise deployments**.  
 - Led global team of **20+ engineers** across DevSecOps, Data Platform, and AI; improved CI/CD pipeline reliability by **45%** through standardized observability and automated testing.  
-- Designed secure, multi-tenant Azure cloud architecture (AKS, Synapse, Purview) supporting **100K+ daily process events** with **99.95% uptime** and SOC 2 compliance.  
+- Designed secure, multi-tenant Azure cloud architecture (AKS, Synapse, Purview) supporting **1M+ daily process events** with **99.95% uptime** and SOC 2 compliance.  
 - Drove adoption of Microsoft Fabric for self-service analytics, cutting ad-hoc data requests by **70%** across Product and Customer Success.  
-- Generated **3 patent disclosures** and contributed to **$12M+ in sales pipeline** by embedding GenAI into core product workflows.
+- Contributed to **$10M+ in sales pipeline** by embedding GenAI into core product workflows.
 
 ### **EPAM Systems** — Toronto, Canada  
-**Senior Solutions Architect, Intelligent Automation**  
+**Senior Solutions Architect, Data & AI**  
 *Aug 2019 – Aug 2022*  
 - Delivered **8+ GenAI and automation PoCs** for financial services clients; **5 converted to $2M+ contracts** within 6 months.  
 - Built voice-enabled LLM assistant (Alexa + Azure OpenAI + RAG) for top U.S. property management firm, automating **80% of tenant support queries** and reducing call volume by **35%**.  
@@ -36,13 +36,13 @@ Technology Executive and AI Architect with 20+ years of experience designing ent
 **Industry Principal, Intelligent Automation CoE**  
 *Jul 2018 – Jul 2019*  
 - Acted as pre-sales SME for BPM/RPA solutions across BFSI, Telecom, and Government; contributed to **$15M+ sales pipeline** in Europe and APAC.  
-- Architected Appian BPM solution for German telecom client, automating **120+ workflows** and reducing onboarding cycle time from **14 days to 48 hours**.  
+- Architected Appian BPM solution for German telecom client, automating **50+ workflows** and reducing onboarding cycle time from **14 days to 48 hours**.  
 - Trained **50+ consultants** on Appian, UiPath, and ABBYY; developed reusable accelerators that cut delivery time by **30%**.
 
 ### **Bank of America** — Charlotte, NC  
 **Senior Technology Architect Manager (SVP)**  
 *Oct 2014 – Apr 2018*  
-- Built and scaled **Enterprise BPM & RPA Center of Excellence**, delivering **50+ production use cases** across 8 business lines and generating **$8.5M/year in operational savings**.  
+- Built and scaled **Enterprise BPM & RPA Center of Excellence**, delivering **50+ production use cases** across 8 business lines and generating **$10M/year in operational savings**.  
 - Automated KYC, AML, and SAP invoice processing using WorkFusion and OCR, reducing manual effort by **75%** and achieving **99.2% data accuracy**.  
 - Owned enterprise platform strategy for Appian, Pega, and ARIS; served as **C-level advisor** to vendors on product roadmap alignment.  
 - Established RPA security governance framework adopted bank-wide, reducing audit findings by **90%**.
