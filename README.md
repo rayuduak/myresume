@@ -1,6 +1,6 @@
 # Rayudu Addagarla  
 Toronto, Canada | rayudu6@gmail.com | +1 (647) 996-9838  
-LinkedIn: [https://www.linkedin.com/in/agentic-automation/] | GitHub: [github.com/rayuduak]
+LinkedIn: [linkedin.com/in/agentic-automation/] | GitHub: [github.com/rayuduak]
 
 ## Summary  
 Technology Executive and AI Architect with 20+ years of experience designing enterprise-scale intelligent automation, Generative AI, and cloud platforms for global financial institutions. Proven success in building Centers of Excellence, delivering 50+ production automations, and scaling GenAI solutions (RAG, LLMs, Agentic AI) on Azure. Led global engineering teams (20–25 members) across North America, Europe, and India. Deep domain expertise in KYC, AML, regulatory compliance, and digital onboarding. Strong track record in pre-sales, PoCs, and translating technical innovation into $8M+ annual savings.
